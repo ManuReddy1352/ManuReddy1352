@@ -46,23 +46,17 @@ const manikanta = {
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql" />
 </p>
 
----
-
 ### ⚙️ Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,fastapi" />
 </p>
 
----
-
 ### 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
-
----
 
 ### 🛠 Tools
 
@@ -72,68 +66,108 @@ const manikanta = {
 
 ---
 
-# 🧩 Featured Projects
+# 🚀 Featured Projects
 
-## 🔹 SkillSwap — Skill Exchange Platform
+<p align="center">
 
-Full-stack MERN application allowing users to exchange skills.
+<img src="https://img.shields.io/badge/PROJECTS-Highlighted_Work-blue?style=for-the-badge"/>
 
-Tech Stack:
+</p>
+
+---
+
+## 🔹 SkillSwap – Skill Exchange Platform
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN-FullStack-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI-TailwindCSS-blue?style=for-the-badge"/>
+
+</p>
+
+💡 **Description**
+
+A full-stack platform that enables users to exchange skills through a barter-based collaboration system.
+
+✨ **Highlights**
+
+- Skill discovery and matching  
+- Secure authentication with JWT  
+- Role-based access control  
+- Smart filtering and search system  
+- Built scalable backend APIs
+
+⚙ **Tech Stack**
 
 React.js  
 Node.js  
 Express.js  
 MongoDB  
-JWT  
 TailwindCSS  
-
-Features:
-
-• Skill discovery and exchange  
-• Secure authentication  
-• Search and filtering  
-• Collaboration system  
 
 ---
 
 ## 🏥 Smart Hospital Management System
 
-Hospital platform for managing appointments and hospital operations.
+<p align="center">
 
-Tech Stack:
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge"/>
 
-React  
+</p>
+
+💡 **Description**
+
+A scalable healthcare platform designed to automate hospital workflows and improve patient management.
+
+✨ **Highlights**
+
+- Emergency slot booking system  
+- Multilingual support  
+- Chatbot assisted hospital services  
+- Automated administrative workflows  
+- Efficient API-based architecture
+
+⚙ **Tech Stack**
+
+React.js  
 Node.js  
 MongoDB  
 REST APIs  
 TailwindCSS  
 
-Features:
-
-• Real-time emergency slot booking  
-• Multilingual support  
-• Chatbot integration  
-• Automated administrative workflows  
-
 ---
 
-## 🔐 StegaVault — Secure Steganography Tool
+## 🔐 StegaVault – Secure Steganography Tool
 
-Desktop tool to hide confidential data inside images.
+<p align="center">
 
-Tech Stack:
+<img src="https://img.shields.io/badge/Python-Application-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tkinter-DesktopUI-orange?style=for-the-badge"/>
+
+</p>
+
+💡 **Description**
+
+A desktop application designed to hide sensitive information inside images using steganography techniques.
+
+✨ **Highlights**
+
+- LSB steganography algorithm  
+- Secure data embedding  
+- 100% data integrity  
+- Optimized encoding and decoding  
+- User-friendly desktop interface
+
+⚙ **Tech Stack**
 
 Python  
 Tkinter  
 OpenCV  
 NumPy  
-
-Features:
-
-• LSB steganography algorithm  
-• Secure data embedding  
-• High data integrity  
-• Fast encoding and decoding  
 
 ---
 
@@ -149,18 +183,18 @@ Features:
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/GUNTUKAREDDY9959">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:GUNTUKAREDDY9959@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/GUNTUKAREDDY9959">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -169,7 +203,7 @@ Features:
 
 # ⚡ Fun Fact
 
-I love building scalable full-stack applications, learning new technologies, and competing in hackathons 🚀
+I enjoy building impactful full-stack applications, participating in hackathons, and learning emerging technologies 🚀
 
 ---
 
