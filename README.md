@@ -169,15 +169,89 @@ NumPy
 
 ---
 
-# 🏆 Achievements
+---
 
-🥇 CyberHelix Hackathon Winner  
-🏆 Smart India Hackathon Finalist  
-🎓 AWS Academy Graduate – Cloud Foundations  
-🔗 POSTECH – Introduction to Blockchain  
-💰 ICFAITech Scholarship Recipient  
+# 🏆 Achievements & Milestones
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=FFD700&center=true&vCenter=true&width=600&lines=Achievements+Unlocked;Hackathons+%7C+Certifications+%7C+Scholarships;Recognitions+in+Technology" />
+</p>
 
 ---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hackathon-Winner-gold?style=for-the-badge&logo=hackaday"/>
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-National%20Finalist-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Academy%20Graduate-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Blockchain-POSTECH%20Certified-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scholarship-₹5L%20Awarded-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🥇 CyberHelix Hackathon Winner
+
+🏆 Secured **1st place among 30 teams** by developing **StegaVault**, a secure steganography-based data protection tool.
+
+✨ Highlights
+
+• Designed advanced **LSB steganography algorithms**  
+• Ensured **100% data integrity**  
+• Built a functional desktop application using **Python + OpenCV**
+
+---
+
+## 🏆 Smart India Hackathon 2024 Finalist
+
+🚀 Selected among the **Top 25 national teams** competing in one of India's largest innovation competitions.
+
+✨ Highlights
+
+• Designed a **real-world technology solution**  
+• Collaborated in an **intensive national-level hackathon environment**  
+• Demonstrated **rapid prototyping and scalable system design**
+
+---
+
+## 🎓 AWS Academy Graduate – Cloud Foundations
+
+☁ Completed the **AWS Cloud Foundations certification**, gaining strong knowledge in:
+
+• Cloud architecture fundamentals  
+• AWS core services  
+• Security and identity management  
+• Cloud deployment models
+
+---
+
+## 🔗 POSTECH – Introduction to Blockchain
+
+🌐 Completed certification from **POSTECH University** covering:
+
+• Blockchain fundamentals  
+• Distributed ledger technologies  
+• Smart contract architecture  
+• Decentralized systems
+
+---
+
+## 💰 ICFAITech Scholarship Recipient
+
+🎖 Awarded **₹5,00,000 merit scholarship** for outstanding academic performance during B.Tech.
+
+✨ Recognition for:
+
+• Consistent academic excellence  
+• High CGPA performance  
+• Commitment to technical development
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF8C00&height=120&section=footer"/>
+</p>
 
 # 🌐 Connect With Me
 
