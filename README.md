@@ -147,32 +147,6 @@ Features:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GUNTUKAREDDY9959&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUNTUKAREDDY9959&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GUNTUKAREDDY9959&theme=tokyo-night" />
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GUNTUKAREDDY9959&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -195,7 +169,7 @@ Features:
 
 # ⚡ Fun Fact
 
-I love building scalable full-stack applications and competing in hackathons 🚀
+I love building scalable full-stack applications, learning new technologies, and competing in hackathons 🚀
 
 ---
 
