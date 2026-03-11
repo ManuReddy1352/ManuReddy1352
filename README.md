@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manikanta Reddy</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver</h3>
 
 <p align="center">
-Building scalable applications and solving real-world problems with code.
+Building scalable web applications and solving real-world problems with code.
 </p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Hackathon+Winner;Building+Impactful+Software" />
+</p>
+
+---
+
+# 👨‍💻 About Me
 
 ```javascript
 const manikanta = {
@@ -26,51 +32,54 @@ const manikanta = {
     "Smart India Hackathon Finalist",
     "CyberHelix Hackathon Winner"
   ],
-  motto: "Build scalable solutions that solve real problems"
+  motto: "Build scalable systems that solve real-world problems"
 }
 ```
 
 ---
 
-## 🧠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-green?style=for-the-badge&logo=androidstudio)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql" />
+</p>
 
 ---
 
-## 🧩 Featured Projects
+### ⚙️ Frameworks & Libraries
 
-### SkillSwap — Skill Exchange Platform
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,fastapi" />
+</p>
 
-Full stack MERN platform enabling users to exchange skills.
+---
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+---
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio" />
+</p>
+
+---
+
+# 🧩 Featured Projects
+
+## 🔹 SkillSwap — Skill Exchange Platform
+
+Full-stack MERN application allowing users to exchange skills.
 
 Tech Stack:
+
 React.js  
 Node.js  
 Express.js  
@@ -79,18 +88,20 @@ JWT
 TailwindCSS  
 
 Features:
-• Skill matching and discovery  
-• Authentication and authorization  
+
+• Skill discovery and exchange  
+• Secure authentication  
 • Search and filtering  
 • Collaboration system  
 
 ---
 
-### Smart Hospital Management System
+## 🏥 Smart Hospital Management System
 
-Hospital management platform with automation.
+Hospital platform for managing appointments and hospital operations.
 
 Tech Stack:
+
 React  
 Node.js  
 MongoDB  
@@ -98,32 +109,35 @@ REST APIs
 TailwindCSS  
 
 Features:
-• Emergency slot booking  
+
+• Real-time emergency slot booking  
 • Multilingual support  
-• Chatbot assistance  
-• Automated hospital workflows  
+• Chatbot integration  
+• Automated administrative workflows  
 
 ---
 
-### StegaVault — Secure Steganography Tool
+## 🔐 StegaVault — Secure Steganography Tool
 
-Desktop tool for hiding data inside images.
+Desktop tool to hide confidential data inside images.
 
 Tech Stack:
+
 Python  
 Tkinter  
 OpenCV  
 NumPy  
 
 Features:
-• LSB steganography  
+
+• LSB steganography algorithm  
 • Secure data embedding  
 • High data integrity  
 • Fast encoding and decoding  
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 CyberHelix Hackathon Winner  
 🏆 Smart India Hackathon Finalist  
@@ -133,28 +147,58 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUNTUKAREDDY9959&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GUNTUKAREDDY9959&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GUNTUKAREDDY9959&layout=compact&theme=tokyonight)
-
----
-
-## 📈 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GUNTUKAREDDY9959&theme=tokyo-night)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUNTUKAREDDY9959&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-LinkedIn: https://linkedin.com  
-Portfolio: https://yourportfolio.com  
-Email: GUNTUKAREDDY9959@gmail.com  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GUNTUKAREDDY9959&theme=tokyo-night" />
 
 ---
 
-## ⚡ Fun Fact
+# 🏅 GitHub Trophies
 
-I enjoy building full-stack applications, participating in hackathons, and solving challenging problems.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GUNTUKAREDDY9959&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/GUNTUKAREDDY9959">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:GUNTUKAREDDY9959@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I love building scalable full-stack applications and competing in hackathons 🚀
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
