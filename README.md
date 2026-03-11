@@ -5,8 +5,6 @@
 Building scalable web applications and solving real-world problems with code.
 </p>
 
----
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Hackathon+Winner;Building+Impactful+Software" />
 </p>
@@ -41,25 +39,21 @@ const manikanta = {
 # 🚀 Tech Stack
 
 ### 💻 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,fastapi" />
 </p>
 
 ### 🗄 Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### 🛠 Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio" />
 </p>
@@ -69,34 +63,32 @@ const manikanta = {
 # 🚀 Featured Projects
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/PROJECTS-Highlighted_Work-blue?style=for-the-badge"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Highlighted+Projects;Full+Stack+Applications;Real+World+Solutions" />
 </p>
 
 ---
 
-## 🔹 SkillSwap – Skill Exchange Platform
+## 🔹 SkillSwap — Skill Exchange Platform
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MERN-FullStack-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Auth-JWT-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UI-TailwindCSS-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Scalable-purple?style=for-the-badge"/>
 
 </p>
 
-💡 **Description**
+✨ **Description**
 
-A full-stack platform that enables users to exchange skills through a barter-based collaboration system.
+A full-stack MERN application that enables users to exchange skills through a barter-based collaboration system.
 
-✨ **Highlights**
+⚡ **Key Features**
 
-- Skill discovery and matching  
-- Secure authentication with JWT  
-- Role-based access control  
-- Smart filtering and search system  
-- Built scalable backend APIs
+• Skill discovery and matching  
+• Secure authentication and authorization  
+• Advanced filtering and search  
+• Collaborative skill exchange ecosystem  
 
 ⚙ **Tech Stack**
 
@@ -112,23 +104,23 @@ TailwindCSS
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-REST-orange?style=for-the-badge"/>
 
 </p>
 
-💡 **Description**
+✨ **Description**
 
-A scalable healthcare platform designed to automate hospital workflows and improve patient management.
+A scalable healthcare management platform designed to automate hospital operations and improve patient services.
 
-✨ **Highlights**
+⚡ **Key Features**
 
-- Emergency slot booking system  
-- Multilingual support  
-- Chatbot assisted hospital services  
-- Automated administrative workflows  
-- Efficient API-based architecture
+• Real-time emergency slot booking  
+• Multilingual hospital interface  
+• Chatbot-assisted patient support  
+• Automated administrative workflows  
 
 ⚙ **Tech Stack**
 
@@ -140,27 +132,27 @@ TailwindCSS
 
 ---
 
-## 🔐 StegaVault – Secure Steganography Tool
+## 🔐 StegaVault — Secure Steganography Tool
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-Application-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-ComputerVision-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tkinter-DesktopUI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ComputerVision-OpenCV-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DesktopUI-Tkinter-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security-Steganography-purple?style=for-the-badge"/>
 
 </p>
 
-💡 **Description**
+✨ **Description**
 
-A desktop application designed to hide sensitive information inside images using steganography techniques.
+A desktop application that securely hides confidential data inside images using steganography techniques.
 
-✨ **Highlights**
+⚡ **Key Features**
 
-- LSB steganography algorithm  
-- Secure data embedding  
-- 100% data integrity  
-- Optimized encoding and decoding  
-- User-friendly desktop interface
+• LSB steganography algorithm  
+• Secure data embedding  
+• High data integrity protection  
+• Optimized encoding and decoding  
 
 ⚙ **Tech Stack**
 
@@ -168,6 +160,12 @@ Python
 Tkinter  
 OpenCV  
 NumPy  
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=120&section=footer"/>
+</p>
 
 ---
 
@@ -203,10 +201,4 @@ NumPy
 
 # ⚡ Fun Fact
 
-I enjoy building impactful full-stack applications, participating in hackathons, and learning emerging technologies 🚀
-
----
-
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
+I enjoy building impactful full-stack applications, solving complex problems, and participating in hackathons 🚀
